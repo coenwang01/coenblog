@@ -1,0 +1,4 @@
+baseURL = 'https://coenwang01.github.io/coenblog/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
